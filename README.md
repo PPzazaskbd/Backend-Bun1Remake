@@ -1,3 +1,18 @@
+### This repo is not used anymore!
+
+## links about things
+
+[frontend repo](https://github.com/2110503-CEDT68/se-project-fe-68-2-bun1remake)
+
+ [backend repo](https://github.com/2110503-CEDT68/se-project-be-68-2-bun1remake)
+
+ [figma design](https://www.figma.com/design/FOVMAuZAGjeZSyWGNUM806/Bun1?node-id=0-1&t=xa5Cymb0i3PlCcga-1)
+
+ [sprint backlog](https://docs.google.com/spreadsheets/d/18_tcmjDmkCqRyGTglJqvmr61rYwpZIbMA3imKUonaDg/edit?gid=1450166725#gid=1450166725)
+
+
+
+
 # Hotel Booking System - Backend API
 (most of the commit is at PP branch, we poush force at the last minnute decision, therefore github contributors maybe not accurate (cuz it count only main branch))
 (please look at the PP branch )
